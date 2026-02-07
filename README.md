@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **the concepts of Python, C Programming (logic, loops, functions) & Data Structures basics**
 
-- 📫 How to reach me **dasayush9134@gmail.com**
+- 📫 How to reach me **sristiray2005@gmail.com**
 
 - ⚡ Fun fact **I tend to overthink, which helps me notice details — and I’m deeply curious about how AI thinks too.**
 
